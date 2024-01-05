@@ -25,7 +25,7 @@ occlusionModifierVac=1
 occlusionModifierAtm=1
 extraGroundstations=False
 
-generate blacklist; copy mod-control.txt (or just the parts list)
+generate blacklist in the client; copy to the server's Config/mod-control.txt (or just edit the parts list)
 
 start server; /whitelist add <desiredUser>
 
