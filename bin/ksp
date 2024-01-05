@@ -1,0 +1,2 @@
+#!/bin/bash
+cd ~/ksp/KSP-linux-1.12.5-plusDLC && exec ./KSP.x86_64

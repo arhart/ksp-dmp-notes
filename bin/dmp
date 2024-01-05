@@ -1,0 +1,2 @@
+#!/bin/bash
+cd ~/ksp/DMPServer && exec mono ./DMPServer.exe
